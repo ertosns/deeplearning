@@ -1,0 +1,7 @@
+CNN Presentation (attached)
+Colab:
+MNIST CNN: https://colab.research.google.com/drive/1dsNTbHSt5Sqjh_Rml0VaeRBdqxz8tUpz?usp=sharing
+Dog&Cats : https://colab.research.google.com/drive/1jgoa3Xa6gXDNHCtDthns10w88nf7L2LI?usp=sharing
+
+
+https://www.youtube.com/watch?v=4jRBRDbJemM
