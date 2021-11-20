@@ -3,7 +3,7 @@ from faker import Faker
 import random
 from tqdm import tqdm
 from babel.dates import format_date
-from keras.utils import to_categorical
+from tensorflow.keras.utils import to_categorical
 import keras.backend as K
 import matplotlib.pyplot as plt
 
