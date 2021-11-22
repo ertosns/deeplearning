@@ -7,3 +7,14 @@ glove.6B.50d.txt
 glove.6B.100d.txt
 __pycache__/
 .ipynb_checkpoints/
+
+#windows
+.\**\glove.6B.50d.txt
+.\**\glove.6B.100d.txt
+.\**\__pycache__\
+.\**\.ipynb_checkpoints\
+
+glove.6B.50d.txt
+glove.6B.100d.txt
+__pycache__\
+.ipynb_checkpoints\
